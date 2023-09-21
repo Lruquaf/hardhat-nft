@@ -1,0 +1,23 @@
+{
+  "name": "Belisarius",
+  "description": "The supreme general of Byzantine Empire",
+  "image": "ipfs://QmU8Rf6Lzz7fPF76B6WRRyeYVd1KLNKFvi9DRDvFnbnYut",
+  "attributes": [
+    {
+      "trait_type": "Attack",
+      "value": 80
+    },
+    {
+      "trait_type": "Defence",
+      "value": 90
+    },
+    {
+      "trait_type": "Administration",
+      "value": 80
+    },
+    {
+      "trait_type": "Morale",
+      "value": 80
+    }
+  ]
+}

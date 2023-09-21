@@ -1,0 +1,23 @@
+{
+  "name": "Suleiman",
+  "description": "The magnificent sultan of Ottoman Empire",
+  "image": "ipfs://QmUHEWutzNpxkaP7EZxhGPN2MSCQKEuysfAPABTKT68ENh",
+  "attributes": [
+    {
+      "trait_type": "Attack",
+      "value": 90
+    },
+    {
+      "trait_type": "Defence",
+      "value": 80
+    },
+    {
+      "trait_type": "Administration",
+      "value": 100
+    },
+    {
+      "trait_type": "Morale",
+      "value": 80
+    }
+  ]
+}

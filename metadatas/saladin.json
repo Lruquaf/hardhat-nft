@@ -1,0 +1,23 @@
+{
+  "name": "Saladin",
+  "description": "The glorious sultan of Ayyubid Sultanate",
+  "image": "ipfs://QmbC6LhbG7uDF46E5szEUrZ3DX7CDiGZ75U6maKTAsUVGP",
+  "attributes": [
+    {
+      "trait_type": "Attack",
+      "value": 70
+    },
+    {
+      "trait_type": "Defence",
+      "value": 70
+    },
+    {
+      "trait_type": "Administration",
+      "value": 90
+    },
+    {
+      "trait_type": "Morale",
+      "value": 90
+    }
+  ]
+}

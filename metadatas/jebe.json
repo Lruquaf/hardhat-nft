@@ -1,0 +1,23 @@
+{
+  "name": "Jebe",
+  "description": "The phenomenal marshal of Mongolian Empire",
+  "image": "ipfs://QmYy3hTvotPRqR1ha2sdX1rHtCGtQxACTdL3JytXqzTf9r",
+  "attributes": [
+    {
+      "trait_type": "Attack",
+      "value": 90
+    },
+    {
+      "trait_type": "Defence",
+      "value": 70
+    },
+    {
+      "trait_type": "Administration",
+      "value": 60
+    },
+    {
+      "trait_type": "Morale",
+      "value": 80
+    }
+  ]
+}

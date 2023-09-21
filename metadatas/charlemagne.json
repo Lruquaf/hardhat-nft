@@ -1,0 +1,23 @@
+{
+  "name": "Charlemagne",
+  "description": "The mighty emperor of Frankish Empire",
+  "image": "ipfs://QmSnq5stKVmSi1fCFXsLUd9RKQL2ghbCKmqoTophyjxfpH",
+  "attributes": [
+    {
+      "trait_type": "Attack",
+      "value": 90
+    },
+    {
+      "trait_type": "Defence",
+      "value": 70
+    },
+    {
+      "trait_type": "Administration",
+      "value": 100
+    },
+    {
+      "trait_type": "Morale",
+      "value": 80
+    }
+  ]
+}

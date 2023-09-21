@@ -1,0 +1,23 @@
+{
+  "name": "Timur",
+  "description": "The spectacular khan of Timurid Empire",
+  "image": "ipfs://QmSw4Go4Y8yjQkhVCiSB1nxKzs14noeLZL6TMrHLPWiTGa",
+  "attributes": [
+    {
+      "trait_type": "Attack",
+      "value": 100
+    },
+    {
+      "trait_type": "Defence",
+      "value": 80
+    },
+    {
+      "trait_type": "Administration",
+      "value": 90
+    },
+    {
+      "trait_type": "Morale",
+      "value": 90
+    }
+  ]
+}

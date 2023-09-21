@@ -1,0 +1,23 @@
+{
+  "name": "Khalid",
+  "description": "The gorgeous commander of Rashidun Caliphate",
+  "image": "ipfs://QmaKZHPCv7okCqezwkU97hyFZC615uxoeAB36pxgSeMjEn",
+  "attributes": [
+    {
+      "trait_type": "Attack",
+      "value": 90
+    },
+    {
+      "trait_type": "Defence",
+      "value": 90
+    },
+    {
+      "trait_type": "Administration",
+      "value": 60
+    },
+    {
+      "trait_type": "Morale",
+      "value": 90
+    }
+  ]
+}

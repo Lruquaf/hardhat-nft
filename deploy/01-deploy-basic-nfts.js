@@ -1,4 +1,6 @@
 const {network} = require("hardhat")
+const fs = require("fs")
+const path = require("path")
 const {networkConfig, developmentChains} = require("../helper-hardhat-config")
 const {verify} = require("../utils/verify")
 const {storeImages, storeMetadatas} = require("../utils/uploadToPinata")
@@ -81,6 +83,31 @@ async function handleTokenUris() {
         console.log(`Working on ${metadata.name}`)
         const metadataUploadResponse = await storeMetadatas(metadata)
         tokenUris.push(`ipfs://${metadataUploadResponse.IpfsHash}`)
+
+        const jsonFileName = `../metadatas/${files[index].replace(
+            ".png",
+            ""
+        )}.json`
+        const jsonFilePath = path.join(
+            __dirname,
+            "..",
+            "metadatas",
+            jsonFileName
+        )
+
+        if (fs.existsSync(jsonFilePath)) {
+            fs.writeFileSync(
+                jsonFilePath,
+                JSON.stringify(metadata, null, 2),
+                "utf-8"
+            )
+        } else {
+            fs.writeFileSync(
+                jsonFilePath,
+                JSON.stringify(metadata, null, 2),
+                "utf-8"
+            )
+        }
     }
     console.log("Metadatas uploaded to Pinata!")
 

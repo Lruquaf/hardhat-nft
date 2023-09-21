@@ -1,0 +1,23 @@
+{
+  "name": "Attila",
+  "description": "The famous khan of Hunnic Empire",
+  "image": "ipfs://QmY5yfkejsByNU8epmU3ohxVK8rnfw47poZ9mEzia6b9Lj",
+  "attributes": [
+    {
+      "trait_type": "Attack",
+      "value": 90
+    },
+    {
+      "trait_type": "Defence",
+      "value": 60
+    },
+    {
+      "trait_type": "Administration",
+      "value": 80
+    },
+    {
+      "trait_type": "Morale",
+      "value": 90
+    }
+  ]
+}

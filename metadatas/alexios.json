@@ -1,0 +1,23 @@
+{
+  "name": "Alexios",
+  "description": "The great emperor of Byzantine Empire",
+  "image": "ipfs://Qmf4akzSyjzEtBq1FbWRVmKAvUoA5pYU47cmpx4SDnKNRQ",
+  "attributes": [
+    {
+      "trait_type": "Attack",
+      "value": 70
+    },
+    {
+      "trait_type": "Defence",
+      "value": 80
+    },
+    {
+      "trait_type": "Administration",
+      "value": 100
+    },
+    {
+      "trait_type": "Morale",
+      "value": 80
+    }
+  ]
+}

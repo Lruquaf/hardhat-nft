@@ -1,0 +1,23 @@
+{
+  "name": "Cnut",
+  "description": "The fabulous king of Kingdom of Denmark",
+  "image": "ipfs://QmcfWoM52Sb51XAhCn64rAZ1YEGB8fs6VYaFXZTx8C6qee",
+  "attributes": [
+    {
+      "trait_type": "Attack",
+      "value": 80
+    },
+    {
+      "trait_type": "Defence",
+      "value": 70
+    },
+    {
+      "trait_type": "Administration",
+      "value": 70
+    },
+    {
+      "trait_type": "Morale",
+      "value": 80
+    }
+  ]
+}
